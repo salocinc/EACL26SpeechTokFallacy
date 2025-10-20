@@ -1,0 +1,100 @@
+RESEARCH AND EDUCATIONAL USE LICENSE
+
+Copyright (c) 2025 [Anonymous Authors for Review]
+
+TERMS AND CONDITIONS
+
+1. SCOPE AND PURPOSE
+
+   This license governs the use of the software and associated documentation 
+   files (the "Software") for RESEARCH AND EDUCATIONAL PURPOSES ONLY.
+
+2. PERMITTED USES
+
+   Permission is hereby granted, free of charge, to any person obtaining a 
+   copy of this Software, to use, copy, modify, and distribute the Software 
+   for NON-COMMERCIAL research and educational purposes only, subject to the 
+   following conditions:
+
+   a) The above copyright notice and this permission notice shall be included 
+      in all copies or substantial portions of the Software.
+
+   b) Any publications, presentations, or reports resulting from the use of 
+      this Software must cite the associated research paper (details to be 
+      provided upon publication).
+
+   c) Modifications to the Software must be clearly documented and attributed.
+
+3. PROHIBITED USES
+
+   The following uses are explicitly PROHIBITED without prior written permission:
+
+   a) Commercial use, including but not limited to:
+      - Incorporation into commercial products or services
+      - Use in profit-generating activities
+      - Sale or licensing of the Software or derivatives
+
+   b) Military or surveillance applications
+
+   c) Any use that violates applicable laws or regulations
+
+4. ATTRIBUTION AND ACKNOWLEDGMENT
+
+   This Software builds upon the MAMKit (Multimodal Argument Mining Toolkit) 
+   framework, which is released under the CC0 1.0 Universal (Public Domain) 
+   license by its authors. Users should cite the MAMKit paper:
+
+   Mancini, E., Ruggeri, F., Colamonaco, S., Zecca, A., Marro, S., & Torroni, P. 
+   (2024). MAMKit: A Comprehensive Multimodal Argument Mining Toolkit. 
+   In Proceedings of the 11th Workshop on Argument Mining (ArgMining 2024).
+
+5. DISCLAIMER OF WARRANTIES
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+   THE SOFTWARE.
+
+6. NO SUPPORT OBLIGATION
+
+   The authors are under no obligation to provide support, maintenance, updates, 
+   enhancements, or modifications to the Software.
+
+7. DURATION
+
+   This license is effective until terminated. Your rights under this license 
+   will terminate automatically without notice if you fail to comply with any 
+   of its terms.
+
+8. COMMERCIAL LICENSING
+
+   For commercial use or licensing inquiries, please contact the authors 
+   (contact information to be provided upon publication).
+
+9. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with 
+   applicable copyright and intellectual property laws.
+
+---
+
+DATASET LICENSE NOTICE:
+
+This Software uses the MM-USED-fallacy dataset. Users must comply with the 
+dataset's original license terms and cite the dataset papers:
+
+- Mancini, E., Ruggeri, F., Galassi, A., & Torroni, P. (2024). 
+  The Fallacy Overlap: New Insights on the MM-USED Dataset. 
+  In Proceedings of EACL 2024.
+
+- Mancini, E., Ruggeri, F., Galassi, A., & Torroni, P. (2022). 
+  The Multi-Modal Multi-Lingual United States Election Dataset (MM-USED). 
+  In Proceedings of ArgMining 2022.
+
+---
+
+For questions regarding this license, please refer to the associated 
+publication or contact the authors through the anonymous submission platform.
