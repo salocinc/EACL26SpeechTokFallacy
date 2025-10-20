@@ -170,3 +170,5 @@ ukdebates.sh
 mamkit.egg-info
 
 data/
+
+.vscode/
